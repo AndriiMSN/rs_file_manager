@@ -1,0 +1,23 @@
+{
+  "name": "rs_file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+      "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiMSN/rs_file-manager.git"
+  },
+  "author": "AndreMSN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiMSN/rs_file-manager/issues"
+  },
+  "homepage": "https://github.com/AndriiMSN/rs_file-manager#readme"
+}
